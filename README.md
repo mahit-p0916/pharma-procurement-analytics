@@ -4,7 +4,7 @@ A data analytics project analyzing simulated pharmaceutical procurement data to 
 
 I built this project to understand how data analytics can support procurement and strategic sourcing decisions within the pharmaceutical industry.
 
-🔗 **Interactive Tableau Dashboard:** [View Dashboard] https://public.tableau.com/app/profile/mahit.patel/viz/PharmaceuticalProcurementSpendingAnalyticsDashboard/Dashboard?publish=yes
+**Interactive Tableau Dashboard:** [View Dashboard] https://public.tableau.com/app/profile/mahit.patel/viz/PharmaceuticalProcurementSpendingAnalyticsDashboard/Dashboard?publish=yes
 
 ---
 
