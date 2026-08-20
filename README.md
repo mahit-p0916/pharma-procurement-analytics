@@ -48,7 +48,7 @@ The five procurement categories are:
 * Packaging
 * Medical Devices
 
-> **Note:** Real pharmaceutical procurement data is typically proprietary, so the dataset used for this project was synthetically generated for analysis.
+> **Note:**The dataset used for this project was synthetically generated for analysis.
 
 ---
 
