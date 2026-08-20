@@ -171,25 +171,6 @@ Used to build the interactive procurement dashboard and communicate the results 
 **GitHub**
 
 Used to document and present the complete project.
-
----
-
-## Project Files
-
-```text
-pharmaceutical-procurement-analytics/
-│
-├── pharma_procurement_data.csv
-├── procurement_analysis.ipynb
-├── dashboard-screenshot.png
-└── README.md
-```
-
-* **`pharma_procurement_data.csv`** — simulated procurement dataset
-* **`procurement_analysis.ipynb`** — Python analysis and calculations
-* **`dashboard-screenshot.png`** — Tableau dashboard preview
-* **`README.md`** — project overview, methodology, and findings
-
 ---
 
 ## Skills Demonstrated
